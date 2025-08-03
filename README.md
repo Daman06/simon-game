@@ -1,2 +1,3 @@
 # simon-game
-this is a game 
+ it is  a good game for mental health
+ 
